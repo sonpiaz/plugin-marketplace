@@ -358,7 +358,7 @@
       }
     },
     "kyma-api": {
-      "sha": "4e9c565004f70f1c13f7d97b1a4832560dabe483",
+      "sha": "3b8bff3efc5f8d526b67efe046b1404e3563be3e",
       "version": "1.0.2",
       "components": {
         "mcpServers": [
