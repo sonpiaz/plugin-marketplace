@@ -301,7 +301,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/kyma-api/kyma-mcp-plugin.git",
-        "sha": "16143b8afd8390d2e35befcdcc5488952c08be94"
+        "sha": "2db3e1eb02b125bc897271fee22d54f57d4ed0cd"
       },
       "homepage": "https://kymaapi.com",
       "keywords": ["kyma", "kyma api", "llm gateway", "open models", "model pricing", "model uptime", "chat completions"],
